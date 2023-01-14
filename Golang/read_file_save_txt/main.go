@@ -1,6 +1,6 @@
-/*   Go read binary file
+/*   Read binary file and save to txt format file
      https://zetcode.com/golang/readfile/
-	 https://zetcode.com/golang/writefile/
+     https://zetcode.com/golang/writefile/
 */
 
 package main
