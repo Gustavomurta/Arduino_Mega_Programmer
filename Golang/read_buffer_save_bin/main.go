@@ -1,7 +1,7 @@
 /*   Go read buffer save bin format file
      https://zetcode.com/golang/readfile/
-	   https://zetcode.com/golang/writefile/
-	   https://pkg.go.dev/encoding/binary#example-Write
+     https://zetcode.com/golang/writefile/
+     https://pkg.go.dev/encoding/binary#example-Write
 */
 
 package main
