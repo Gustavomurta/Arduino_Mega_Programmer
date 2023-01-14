@@ -36,7 +36,7 @@ func main() {
 			break
 		}
 
-		fmt.Printf("%s", hex.Dump(buf)) // print buffer at console
+		fmt.Printf("%s", hex.Dump(buf)) // print buffer in console
 	}
 }
 
