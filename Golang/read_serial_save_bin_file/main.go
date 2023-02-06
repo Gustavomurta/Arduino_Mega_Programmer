@@ -37,7 +37,7 @@ func main() {
 
 	s.Flush() // limpa lixo na porta serial
 
-	fw, err := os.Create("C128_ROM_BasicLOW.bin") // create a bin format file  32K x 8 bits
+	fw, err := os.Create("C128_ROM_BasicLOW.bin") // create a bin format file  16K x 8 bits
 
 	if err != nil { // if any error
 		log.Fatal(err) // print error message
