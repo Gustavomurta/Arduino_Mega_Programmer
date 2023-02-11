@@ -1,5 +1,5 @@
 
-Bill of Material 
+Bill of Material:
 
 Arduino Mega 2560
 
@@ -10,6 +10,8 @@ ZIF socket - 40 pins
 Transformer wire - with insulation 
 
 Pin bar with 36 pins (2 x 18) 
+
+Jumper - VCC or Address pin selection 
 
 
 
