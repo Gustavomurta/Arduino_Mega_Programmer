@@ -8,8 +8,8 @@ C:\Users\jgust\go\programas\bin_format\read_serial_bufio_save_bin>dir
 
 11/02/2023  15:22    <DIR>          .
 11/02/2023  15:22    <DIR>          ..
-30/01/2023  23:10            16.384 basic-4000.318018-02.bin
-11/02/2023  14:41            16.384 C128_ROM_BasicLOW.bin
+30/01/2023  23:10            16.384 basic-4000.318018-02.bin   << Original ROM image - Commodore C128 PN 318018- Basic LOW 
+11/02/2023  14:41            16.384 C128_ROM_BasicLOW.bin      << ROM file saved by this program 
 11/02/2023  14:51             1.818 main.go
                3 arquivo(s)         34.586 bytes
                2 pasta(s)   25.517.805.568 bytes disponíveis
