@@ -11,7 +11,7 @@ Transformer wire - with insulation
 
 Pin bar with 36 pins (2 x 18) 
 
-Jumper - VCC or Address pin selection 
+Jumper - 5V or Address pin selection 
 
 
 
