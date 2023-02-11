@@ -22,7 +22,7 @@ import (
 func main() {
 
 	c := &serial.Config{
-		Name:        "COM11",
+		Name:        "COM11",           // Arduino COM Port
 		Baud:        115200,
 		ReadTimeout: time.Second * 1,
 		Size:        8,
@@ -35,7 +35,7 @@ func main() {
 		log.Fatal(err) // cancel and print error message
 	}
 
-	s.Flush() // gargage clean at serial port
+	s.Flush() // garbage clean at serial port
 
 	fw, err := os.Create("C128_ROM_BasicLOW.bin") // create a bin format file  16K x 8 bits
 
