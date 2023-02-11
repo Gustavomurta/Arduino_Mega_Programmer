@@ -8,14 +8,11 @@
 
 
 
-Links:
+Golang: 
 
 https://go.dev/  Golang - my favorite language
-
 https://go.dev/dl/   Golang downloads
-
 https://go.dev/doc/install   Golang Install instructions 
-
 https://go.dev/doc/tutorial/getting-started   Golang getting started 
 
 TinyGo
