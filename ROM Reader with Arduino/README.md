@@ -1,7 +1,7 @@
 Commodore C128 ROM chip reader with Arduino Mega (Proof of concept) 
 
-Using TinyGo in Arduino and Golang in the Windows 10 PC. 
+Using TinyGo on Arduino and Golang on Windows 10 PC. 
 
-Arduino Read ROM data and sends to USB/Serial Port
+Arduino Read ROM data and send to USB/Serial Port
 
-Windows get Serial port data, print Hex dump at console anda save bin format file. 
+Windows gets Serial port data, prints Hex dump to the console and saves a file in bin format.
