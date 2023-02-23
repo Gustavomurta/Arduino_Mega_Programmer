@@ -3,7 +3,7 @@
 1) To read ROMs, EPROMs, Flash of older Microcontrollers or Computers
 2) Read memory and save BIN or TXT format file
 3) Using Arduino TinyGo Code and Golang (only) 
-4) OS = Windows 10 (for while) 
+4) OS = Windows 10 (for while) You may try on the Linux or MAC. 
 5) go version go1.19.2 windows/amd64
 
 Sorry for the mess. I'm learning to organize my project.
