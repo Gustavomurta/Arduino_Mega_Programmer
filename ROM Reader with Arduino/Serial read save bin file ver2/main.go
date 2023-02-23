@@ -51,7 +51,7 @@ func main() {
 
 	log.Printf(" Read EPROM start")
 
-	for i := 0; i < 131072; i++ { // read 512K bytes  => 128K
+	for i := 0; i < 131072; i++ { // read up to 512K bytes  => 128K for example
 		n, err := s.Read(buf) // read serial port data
 		if err != nil {       // if any error
 			log.Fatal(err, n) // cancel and print error message
