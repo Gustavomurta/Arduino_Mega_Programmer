@@ -14,8 +14,11 @@ for i := 0; i < 131072; i++ { // read 512K bytes  => 128K   (Go program)
 Compiling the program:
 
 C:\Users\jgust\tinygo\programas\programador_eprom\EPROM_512K>go mod init main.go
+
 go: creating new go.mod: module main.go
+
 go: to add module requirements and sums:
+
         go mod tidy
         
 C:\Users\jgust\tinygo\programas\programador_eprom\EPROM_512K>go mod tidy
