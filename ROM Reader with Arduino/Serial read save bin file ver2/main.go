@@ -47,7 +47,7 @@ func main() {
 	defer fw.Close() // close file at end
 
 	buf := make([]byte, 1)    // define read buffer
-	bufROM := make([]byte, 0) // define ROM buffer 16K x 8 bits
+	bufROM := make([]byte, 0) // define ROM buffer 128K x 8 bits
 
 	log.Printf(" Read EPROM start")
 
