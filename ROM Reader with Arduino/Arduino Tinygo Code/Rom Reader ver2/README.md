@@ -23,5 +23,5 @@ go: to add module requirements and sums:
         
 C:\Users\jgust\tinygo\programas\programador_eprom\EPROM_512K>go mod tidy
 
-tinygo flash -target=arduino-mega2560 main.go
+tinygo flash -target=arduino-mega2560 main.go  (flashing FW on Arduino) 
 
