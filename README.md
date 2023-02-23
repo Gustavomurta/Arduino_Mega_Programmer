@@ -6,7 +6,7 @@
 4) OS = Windows 10 (for while) 
 5) go version go1.19.2 windows/amd64
 
-
+Sorry for the mess. I'm learning to organize my project.
 
 Golang: 
 
