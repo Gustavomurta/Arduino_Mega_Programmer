@@ -1,10 +1,11 @@
 This program capture bytes readed from EPROM, dump bytes at console and save a binary format file. 
+
 You must change the Arduino COM port of your PC in the go program. 
 
 To compile the go program: 
 
 
-
+'''
 C:\Users\jgust\go\programas\bin_format\EPROM serial reader 27C1024>dir
  O volume na unidade C não tem nome.
  O Número de Série do Volume é 709A-B58F
@@ -25,3 +26,4 @@ C:\Users\jgust\go\programas\bin_format\EPROM serial reader 27C1024>dir
                2 pasta(s)   16.411.713.536 bytes disponíveis
 
 C:\Users\jgust\go\programas\bin_format\EPROM serial reader 27C1024>
+'''
