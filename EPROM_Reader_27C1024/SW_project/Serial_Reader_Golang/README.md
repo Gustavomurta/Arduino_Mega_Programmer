@@ -4,7 +4,7 @@ You must change the Arduino COM port of your PC in the go program.
 
 Original 87F4794 EPROM BIN file - https://www.ardent-tool.com/firmware/system.html
 
-go version go1.21.3 windows/amd64
+go version go1.21.3 windows/amd64  - https://go.dev/doc/install
 
 To compile the go program (Windows 10): 
 
