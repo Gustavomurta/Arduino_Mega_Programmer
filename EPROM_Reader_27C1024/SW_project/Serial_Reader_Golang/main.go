@@ -1,10 +1,10 @@
 /*   Read Arduino Serial and save bin format file
 EPROM Reader 27C1024
 Date: 2024_02_14   Gustavo Murta
+References:
 https://zetcode.com/golang/readfile/
 https://zetcode.com/golang/writefile/
 https://pkg.go.dev/encoding/binary#example-Write
-
 */
 
 package main
