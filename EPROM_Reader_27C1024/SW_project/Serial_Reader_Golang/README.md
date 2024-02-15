@@ -4,6 +4,12 @@ You must change the Arduino COM port of your PC in the go program.
 
 To compile the go program: 
 
+* go mod init main.go
+* go mod tidy
+* go build main.go
+
+To run this program : execute main.exe
+
 
 ```
 C:\Users\jgust\go\programas\bin_format\EPROM serial reader 27C1024>dir
