@@ -23,7 +23,7 @@ import (
 func main() {
 
 	c := &serial.Config{
-		Name:        "COM15",
+		Name:        "COM15",    // change to Windows COM port of your PC
 		Baud:        115200,
 		ReadTimeout: time.Second * 1,
 		Size:        8,
