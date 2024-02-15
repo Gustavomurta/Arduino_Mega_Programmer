@@ -22,13 +22,12 @@ C:\Users\jgust\go\programas\bin_format\EPROM serial reader 27C1024>dir
 15/02/2024  18:51    <DIR>          ..
 29/09/2020  23:08           131.072 87F4794 original EPROM.BIN
 29/09/2020  23:08           131.072 87F4794 PS1 2123.BIN
-14/02/2024  22:14           131.072 EPROM_27C1024 sequencia incorreta.bin
 14/02/2024  23:21           131.072 EPROM_87F4794.bin
 14/02/2024  20:56               139 go.mod
 14/02/2024  20:56               372 go.sum
 14/02/2024  22:30         2.129.920 main.exe
 14/02/2024  23:24             1.972 main.go
-               8 arquivo(s)      2.656.691 bytes
+               7 arquivo(s)      2.656.691 bytes
                2 pasta(s)   16.411.713.536 bytes disponíveis
 
 C:\Users\jgust\go\programas\bin_format\EPROM serial reader 27C1024>
