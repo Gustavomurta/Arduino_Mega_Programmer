@@ -1,6 +1,6 @@
 EPROM Reader 27C1024 - Arduino MEGA 2560
 
-Tinygo - version: 0.30.0
+Tinygo - version: 0.30.0  - https://tinygo.org/getting-started/install/
 
 To compile and flash the TinyGo program:
 * go mod init main.go
