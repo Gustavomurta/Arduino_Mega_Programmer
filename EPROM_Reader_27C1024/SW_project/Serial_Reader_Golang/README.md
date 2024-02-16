@@ -1,12 +1,12 @@
 This program captures bytes read from EPROM, dumps bytes to the console, and saves a file in binary format.
 
-You must change the Arduino COM port of your PC in the GO program.
+You must change the Arduino COM port of your PC in the GO program (Windows 10). 
 
 Original 87F4794 EPROM BIN file (IBM PS/2 BIOS)- https://www.ardent-tool.com/firmware/system.html
 
 go version go1.21.3 windows/amd64  - https://go.dev/doc/install
 
-To compile the go program (Windows 10): 
+To compile the go program: 
 
 * go mod init main.go
 * go mod tidy
