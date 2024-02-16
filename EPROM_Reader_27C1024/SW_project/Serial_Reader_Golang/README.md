@@ -1,6 +1,6 @@
 This program captures bytes read from EPROM, dumps bytes to the console, and saves a file in binary format.
 
-You must change the Arduino COM port of your PC in the go program.
+You must change the Arduino COM port of your PC in the GO program.
 
 Original 87F4794 EPROM BIN file (IBM PS/2 BIOS)- https://www.ardent-tool.com/firmware/system.html
 
