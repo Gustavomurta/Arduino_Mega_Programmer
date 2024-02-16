@@ -8,7 +8,7 @@ To compile and flash the TinyGo program:
 * tinygo flash -target=arduino-mega2560 main.go
 
 
-  ```
+```
   
 C:\Users\jgust\tinygo\programas\arduino\Eprom_reader_27C1024\versão2>tinygo flash -target=arduino-mega2560 main.go
 
@@ -16,7 +16,7 @@ avrdude.exe: Version 7.0
              Copyright (c) Brian Dean, http://www.bdmicro.com/
              Copyright (c) Joerg Wunsch
 
-             System wide configuration file is "C:/Users/jgust/scoop/apps/avr-gcc/current/bin/avrdude.conf"
+             System wide configuration file is C:/Users/jgust/scoop/apps/avr-gcc/current/bin/avrdude.conf
 
              Using Port                    : COM15
              Using Programmer              : wiring
@@ -62,7 +62,7 @@ avrdude.exe: AVR device initialized and ready to accept instructions
 Reading | ################################################## | 100% 0.01s
 
 avrdude.exe: Device signature = 0x1e9801 (probably m2560)
-avrdude.exe: reading input file "C:\Users\jgust\AppData\Local\Temp\tinygo3562371359\main.hex"
+avrdude.exe: reading input file C:\Users\jgust\AppData\Local\Temp\tinygo3562371359\main.hex
 avrdude.exe: writing flash (3220 bytes):
 
 Writing | ################################################## | 100% 0.53s
