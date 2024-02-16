@@ -6,7 +6,7 @@ Original 87F4794 EPROM BIN file (IBM PS/2 BIOS)- https://www.ardent-tool.com/fir
 
 go version go1.21.3 windows/amd64  - https://go.dev/doc/install
 
-To compile the go program: 
+To compile the main.go program: 
 
 * go mod init main.go
 * go mod tidy
